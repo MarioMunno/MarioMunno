@@ -1,4 +1,4 @@
-Hi 👋 My name is Mario Munno
+Hi there👋 My name is Mario Munno
 
 ## System Engineer | Web and Mobile Developer
 
