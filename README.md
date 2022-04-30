@@ -1,6 +1,6 @@
 Hi 👋 My name is Mario Munno
 
-============================System Engineer | Web and Mobile Developer------------------------------------------
+## System Engineer | Web and Mobile Developer
 
 Graduated in Computer Engineer (Master degree) @ University of Naples Federico II, now I'm working @ NTT Data Italia as Security System Engineer
 * 🌍  I'm based in Carinaro (CE), Italy
