@@ -2,7 +2,7 @@ Hi there👋 My name is Mario Munno
 
 ## CyberSecurity Engineer | Web and Mobile Developer
 
-Graduated in Computer Engineer (Master degree) @ University of Naples Federico II.
+Graduated in Computer Engineer (Master degree) @ University of Naples Federico II.</br>
 I'm currently working @ NTT Data Italia as Advanced CyberSecurity Software Engineer
 * 🌍  I'm based in Carinaro (CE), Italy
 * ✉️  You can contact me at [munnomario@icloud.com](mailto:munnomario@icloud.com)
